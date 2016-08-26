@@ -23,3 +23,7 @@ img {
   background-color:blue;
 
 }
+
+.carousel-inner {
+  background-color: green;
+}
