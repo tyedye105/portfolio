@@ -27,3 +27,17 @@ img {
 .carousel-inner {
   background-color: green;
 }
+
+.carousel {
+transition-property: none;}
+
+.carousel-inner {
+  min-height: 220px;
+}
+
+a.carousel-control {
+  max-width: 50px;
+  max-height: 55px;
+  top: 170px;
+
+}
