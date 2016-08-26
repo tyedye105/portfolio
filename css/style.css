@@ -1,3 +1,25 @@
-.jumbotron {
+.centerhead{
   text-align: center;
+}
+
+ol.work{
+  background-color: grey;
+
+}
+
+img {
+  max-height: 400px;
+  max-width: 390 px;
+  float: left;
+  padding: 10px;
+
+}
+
+.container {
+  background-color: #cce6ff;
+}
+
+.about {
+  background-color:blue;
+
 }
