@@ -41,3 +41,11 @@ a.carousel-control {
   top: 170px;
 
 }
+
+h2.pdesc {
+  padding-left: 14px;
+}
+
+p {
+text-indent: 10px;
+}
