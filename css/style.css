@@ -33,8 +33,10 @@ img {
     border-color: #1c0065;
 
   }
-btn.btn-successfocus {
-  background-color: #12062d;
+.btn-success:hover {
+    color: #fff;
+    background-color: #080808;
+    border-color: #080808;
 }
 .carousel-inner {
   min-height: 220px;
@@ -69,4 +71,22 @@ body {
     font-weight: bold;
     background-color: #0b1632;
     color: #243a73;
+}
+
+
+.lead {
+  font-size: 20px;
+}
+
+.who {
+
+    border-top-width: 20px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    padding-top: 15px;
+
+}
+.req {
+  font-style: italic;
+  font-weight: bolder;
 }
