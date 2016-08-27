@@ -14,6 +14,7 @@ _{This website is a portfolio of coding projects I have worked on in the past du
 * host it!
       Or
 * Click the link for the live page on github pages!
+https://tyedye105.github.io/portfolio/
 
 
 
