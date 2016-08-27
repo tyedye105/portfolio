@@ -2,35 +2,40 @@
   text-align: center;
 }
 
-ol.work{
-  background-color: grey;
-
-}
 
 img {
   max-height: 400px;
-  max-width: 390 px;
+  max-width: 285 px;
   float: left;
   padding: 10px;
+
 
 }
 
 .container {
-  background-color: #cce6ff;
+  background-color: #9098a2;
+  border-bottom-width: 20px;
+   margin-bottom: 30px;
+   padding-bottom: 10px;
+   max-width: 940px;
 }
 
-.about {
-  background-color:blue;
 
-}
 
 .carousel-inner {
-  background-color: green;
+  background-color: #999999;
+  color: #0b1632;
 }
 
-.carousel {
-transition-property: none;}
+.btn-success {
+    color: #fff;
+    background-color: #441bad;
+    border-color: #1c0065;
 
+  }
+btn.btn-successfocus {
+  background-color: #12062d;
+}
 .carousel-inner {
   min-height: 220px;
 }
@@ -46,6 +51,22 @@ h2.pdesc {
   padding-left: 14px;
 }
 
-p {
+p.content {
 text-indent: 10px;
+color: #0a1420;
+}
+
+h3 {
+  margin-top: 0px;
+}
+
+body {
+  background-image: url(https://images.alphacoders.com/193/193.jpg);
+  background-size: cover;
+}
+
+.title {
+    font-weight: bold;
+    background-color: #0b1632;
+    color: #243a73;
 }
